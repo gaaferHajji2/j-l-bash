@@ -1,1 +1,2 @@
-echo Hello, Bash Script
+echo Hello, $1
+echo $0
