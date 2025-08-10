@@ -1,2 +1,7 @@
 echo Hello, $1
-echo $0
+echo $_
+echo $0, $#, $*, $@
+echo $$
+echo $?
+echo $-
+echo
