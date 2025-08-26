@@ -13,4 +13,4 @@ echo echo $! >> $HOME/scripts/bpl/bin/hw.sh
 
 chmod +x $HOME/scripts/bpl/bin/hw.sh
 $HOME/scripts/bpl/bin/hw.sh Jafar_Loka Jafar_Loka_02 Jafar_Loka_03
-echo $-
+#echo $-
